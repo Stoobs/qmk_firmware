@@ -31,3 +31,4 @@ jobs:
       with:
         name: Pre-Compiled Firmware
         path: '*.bin'
+
